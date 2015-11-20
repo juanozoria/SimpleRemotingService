@@ -1,0 +1,9 @@
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\RemotingServiceHost\bin\Debug\RemotingServiceHost.exe
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\RemotingServiceHost\bin\Debug\RemotingServiceHost.pdb
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\RemotingServiceHost\bin\Debug\HelloRemotingService.dll
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\RemotingServiceHost\bin\Debug\RemotingServiceIntro.dll
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\RemotingServiceHost\bin\Debug\HelloRemotingService.pdb
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\RemotingServiceHost\bin\Debug\RemotingServiceIntro.pdb
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\RemotingServiceHost\obj\Debug\RemotingServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\RemotingServiceHost\obj\Debug\RemotingServiceHost.exe
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\RemotingServiceHost\obj\Debug\RemotingServiceHost.pdb

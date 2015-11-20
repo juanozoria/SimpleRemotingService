@@ -1,0 +1,7 @@
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\HelloRemotingService\bin\Debug\HelloRemotingService.dll
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\HelloRemotingService\bin\Debug\HelloRemotingService.pdb
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\HelloRemotingService\bin\Debug\RemotingServiceIntro.dll
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\HelloRemotingService\bin\Debug\RemotingServiceIntro.pdb
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\HelloRemotingService\obj\Debug\HelloRemotingService.csprojResolveAssemblyReference.cache
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\HelloRemotingService\obj\Debug\HelloRemotingService.dll
+C:\Users\jozoria\Documents\Visual Studio 2012\Projects\RemotingServiceIntro\HelloRemotingService\obj\Debug\HelloRemotingService.pdb
